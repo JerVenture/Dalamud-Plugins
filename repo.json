@@ -48,19 +48,19 @@
   "InternalName": "JobSwap",
   "Punchline": "Automatically swap jobs based on conditions set.",
   "Description": "Job swap addon meant to be used with Autoduty. Allows you to select classes that you want leveled and set the desired level. After that, you just set autoduty to Auto leveling mode and start job swap. It will automatically level the jobs you designate to the level you set. There's even an option to have it start autoretainer multi mode after it finishes so you're not just idle, but also sending out retainers on all of your characters. /jobswap to open.",
-  "AssemblyVersion": "0.1.0.0",
-  "TestingAssemblyVersion": "0.1.0.0",
+  "AssemblyVersion": "0.2.0.0",
+  "TestingAssemblyVersion": "0.2.0.0",
   "RepoUrl": "https://github.com/JerVenture/JobSwap",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 14,
   "IsHide": "False",
   "IsTestingExclusive": "False",
   "DownloadCount": 0,
-  "LastUpdate": 0,
+  "LastUpdate": 1774884651,
   "LoadPriority": 0,
   "Tags": ["Job", "Swap", "Job Swap", "jobswap", "swap jobs"],
-  "DownloadLinkInstall": "https://github.com/JerVenture/JobSwap/releases/download/v0.1.0.0/JobSwap.zip",
-  "DownloadLinkUpdate": "https://github.com/JerVenture/JobSwap/releases/download/v0.1.0.0/JobSwap.zip",
-  "DownloadLinkTesting": "https://github.com/JerVenture/JobSwap/releases/download/v0.1.0.0/JobSwap.zip"
+  "DownloadLinkInstall": "https://github.com/JerVenture/JobSwap/releases/download/v0.2.0.0/jobswap.zip",
+  "DownloadLinkUpdate": "https://github.com/JerVenture/JobSwap/releases/download/v0.2.0.0/jobswap.zip",
+  "DownloadLinkTesting": "https://github.com/JerVenture/JobSwap/releases/download/v0.2.0.0/jobswap.zip"
   }
 ]
