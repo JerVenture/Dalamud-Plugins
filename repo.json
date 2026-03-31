@@ -59,8 +59,36 @@
   "LastUpdate": 1774884651,
   "LoadPriority": 0,
   "Tags": ["Job", "Swap", "Job Swap", "jobswap", "swap jobs"],
-  "DownloadLinkInstall": "https://github.com/JerVenture/JobSwap/releases/download/v0.2.0.0/jobswap.zip",
-  "DownloadLinkUpdate": "https://github.com/JerVenture/JobSwap/releases/download/v0.2.0.0/jobswap.zip",
-  "DownloadLinkTesting": "https://github.com/JerVenture/JobSwap/releases/download/v0.2.0.0/jobswap.zip"
-  }
+  "DownloadLinkInstall": "https://github.com/JerVenture/JobSwap/releases/download/v0.3.0.0/jobswap.zip",
+  "DownloadLinkUpdate": "https://github.com/JerVenture/JobSwap/releases/download/v0.3.0.0/jobswap.zip",
+  "DownloadLinkTesting": "https://github.com/JerVenture/JobSwap/releases/download/v0.3.0.0/jobswap.zip"
+  },
+  {
+  "Author": "Herculezz, erdelf",
+  "Name": "AutoDuty Jer Fork",
+  "Punchline": "AutoDuty",
+  "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (Wrath Combo, BossMod AutoRotation, or RotationSolverReborn). Forked by Jer to add extra IPC integration.",
+  "InternalName": "AutoDutyJerFork",
+  "AssemblyVersion":"0.0.0.2991",
+  "TestingAssemblyVersion": "0.0.0.2991",
+  "DalamudApiLevel": "14",
+  "MinimumDalamudVersion": "14.0.0.0",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 1774989653,
+  "LoadPriority": 0,
+  "RepoUrl": "https://github.com/JerVenture/AutoDutyForkedJer",
+  "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+  "ImageUrls": [
+    "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+    "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+    "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+    "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+    "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+  ],
+  "DownloadLinkInstall": "https://github.com/JerVenture/AutoDutyForkedJer/releases/download/v0.0.0.2991/AutoDutyForkedJer.zip",
+  "DownloadLinkTesting": "https://github.com/JerVenture/AutoDutyForkedJer/releases/download/v0.0.0.2991/AutoDutyForkedJer.zip",
+  "DownloadLinkUpdate": "https://github.com/JerVenture/AutoDutyForkedJer/releases/download/v0.0.0.2991/AutoDutyForkedJer.zip"
+}
 ]
