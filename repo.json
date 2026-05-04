@@ -31,7 +31,7 @@
     "RepoUrl": "https://github.com/JerVenture/StableChocobo",
     "IconUrl": "https://raw.githubusercontent.com/JerVenture/StableChocobo/master/images/icon.png",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
