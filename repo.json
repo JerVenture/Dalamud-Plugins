@@ -59,9 +59,9 @@
   "LastUpdate": 1777870102,
   "LoadPriority": 0,
   "Tags": ["Job", "Swap", "Job Swap", "jobswap", "swap jobs"],
-  "DownloadLinkInstall": "https://github.com/JerVenture/JobSwap/releases/download/v0.5.0.0/jobswap.zip",
-  "DownloadLinkUpdate": "https://github.com/JerVenture/JobSwap/releases/download/v0.5.0.0/jobswap.zip",
-  "DownloadLinkTesting": "https://github.com/JerVenture/JobSwap/releases/download/v0.5.0.0/jobswap.zip"
+  "DownloadLinkInstall": "https://github.com/JerVenture/JobSwap/releases/download/v0.5.0.0/JobSwap.zip",
+  "DownloadLinkUpdate": "https://github.com/JerVenture/JobSwap/releases/download/v0.5.0.0/JobSwap.zip",
+  "DownloadLinkTesting": "https://github.com/JerVenture/JobSwap/releases/download/v0.5.0.0/JobSwap.zip"
   },
   {
   "Author": "Herculezz, erdelf",
