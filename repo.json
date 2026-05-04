@@ -35,10 +35,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1774132451,
+    "LastUpdate": 1777922937,
     "LoadPriority": 0,
     "Tags": ["Chocobos", "Chocobo Stable", "StableChocobo"],
-    "DownloadLinkInstall": "https://github.com/JerVenture/StableChocobo/releases/download/V0.0.0.3/StableChocobo.zip",
+    "DownloadLinkInstall": "https://github.com/JerVenture/StableChocobo/releases/download/v0.0.0.3/StableChocobo.zip",
     "DownloadLinkUpdate": "https://github.com/JerVenture/StableChocobo/releases/download/v0.0.0.3/StableChocobo.zip",
     "DownloadLinkTesting": "https://github.com/JerVenture/StableChocobo/releases/download/v0.0.0.3/StableChocobo.zip"
   },
