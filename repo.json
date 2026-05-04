@@ -16,9 +16,9 @@
       "LastUpdate": 1777922937,
       "LoadPriority": 0,
       "Tags": [ "Maintenance", "Notification", "Maintenance Notification", "MaintenanceNotification", "alerts", "Maintenance alerts" ],
-      "DownloadLinkInstall": "https://github.com/JerVenture/Maintenance-Notification/releases/download/V0.2.0.0/MaintenanceNotification.zip",
-      "DownloadLinkUpdate": "https://github.com/JerVenture/Maintenance-Notification/releases/download/V0.2.0.0/MaintenanceNotification.zip",
-      "DownloadLinkTesting": "https://github.com/JerVenture/Maintenance-Notification/releases/download/V0.2.0.0/MaintenanceNotification.zip"
+      "DownloadLinkInstall": "https://github.com/JerVenture/Maintenance-Notification/releases/download/v0.2.0.0/MaintenanceNotification.zip",
+      "DownloadLinkUpdate": "https://github.com/JerVenture/Maintenance-Notification/releases/download/v0.2.0.0/MaintenanceNotification.zip",
+      "DownloadLinkTesting": "https://github.com/JerVenture/Maintenance-Notification/releases/download/v0.2.0.0/MaintenanceNotification.zip"
   },
   {
     "Author": "JerVenture",
